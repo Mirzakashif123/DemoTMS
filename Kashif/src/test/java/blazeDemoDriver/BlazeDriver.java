@@ -11,7 +11,7 @@ import blazeDemoPom.FlightsPom;
 import blazeDemoPom.Purchase;
 import blazeDemoPom.ThankYou;
 import php.genericUtility.BlazeBaseClass;
-//welcome
+//Bye
 public class BlazeDriver extends BlazeBaseClass{
 	@Test
 	public void login() {
